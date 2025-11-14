@@ -1,2 +1,12 @@
 # File chứa biến môi trường và API key
 .env
+
+# Môi trường
+venv
+
+# Dữ liệu
+/data_txt/
+/image/
+
+# Cache Python
+__pycache__/
